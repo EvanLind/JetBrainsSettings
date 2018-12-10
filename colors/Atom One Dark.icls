@@ -4,7 +4,7 @@
     <property name="created">2017-09-04T02:30:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-12-09T09:38:32</property>
+    <property name="modified">2018-12-10T05:36:44</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3729,6 +3729,11 @@
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="314365" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9aa2a7" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
