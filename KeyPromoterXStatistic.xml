@@ -17,12 +17,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'trajectory_evaluator.model_based_loop'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'trajectory_evaluator.model_based_loop'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -78,7 +86,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'trajectory_evaluator.model_based_loop'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -103,6 +111,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'robot_geometry.GX_UT'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'trajectory_evaluator.model_based_loop'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'trajectory_evaluator.model_based_loop'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
