@@ -110,7 +110,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'trajectory_evaluator.model_based_loop'</Description>
-          <Count>21</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
