@@ -134,7 +134,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'trajectory_evaluator.model_based_loop'</Description>
-          <Count>95</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -166,7 +166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'trajectory_evaluator.model_based_loop'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
