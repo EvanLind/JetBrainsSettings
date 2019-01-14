@@ -214,7 +214,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Build All'">
@@ -254,7 +254,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'PlannerImpl.AprIndoor'</Description>
-          <Count>80</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PlannerImpl.MultiThread'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PlannerImpl.AprIndoor'</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlannerImpl.MultiThread'">
