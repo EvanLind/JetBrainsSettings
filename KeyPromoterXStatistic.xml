@@ -294,7 +294,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'PlannerImpl.AprIndoor'</Description>
-          <Count>237</Count>
+          <Count>238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PlannerImpl.MultiThread'">
