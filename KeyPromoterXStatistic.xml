@@ -14,7 +14,7 @@
           <IdeaActionID>Build</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build</Description>
-          <Count>410</Count>
+          <Count>411</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -94,7 +94,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -102,7 +102,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -174,7 +174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'PlannerImpl.AprIndoor'</Description>
-          <Count>162</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
@@ -398,7 +398,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PlannerImpl.AprIndoor'</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlannerImpl.MultiThread'">
@@ -462,7 +462,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>55</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
