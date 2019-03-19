@@ -30,7 +30,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -558,7 +558,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>205</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>496</Count>
+          <Count>497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
