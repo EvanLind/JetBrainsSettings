@@ -425,6 +425,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Simulation.MultiAgents'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Simulation.MultiAgents'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Simulation.TwoAgent'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
