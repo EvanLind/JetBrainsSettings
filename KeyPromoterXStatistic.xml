@@ -33,6 +33,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cut">
         <Item>
           <IdeaActionID>$Cut</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
@@ -329,6 +337,14 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ActivePlanner.testIndoorPlanner'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ActivePlanner.testIndoorPlanner'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Android.MemoryLeak'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -358,7 +374,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'DwaPlanner.Simulation'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DwaStateSampler.trajGen'">
