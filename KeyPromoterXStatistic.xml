@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>178</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -566,7 +566,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'testThetaStarPlanner.ThetaStarRun'</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'trajectory_evaluator.model_based_loop'">
