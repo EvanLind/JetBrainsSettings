@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>169</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -30,7 +30,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -561,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testThetaStarPlanner.ThetaStarRun'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'testThetaStarPlanner.ThetaStarRun'</Description>
+          <Count>28</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'trajectory_evaluator.model_based_loop'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -705,6 +713,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'testThetaStarPlanner.ThetaStarRun'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'testThetaStarPlanner.ThetaStarRun'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'trajectory_evaluator.model_based_loop'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -734,7 +750,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>374</Count>
+          <Count>376</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
