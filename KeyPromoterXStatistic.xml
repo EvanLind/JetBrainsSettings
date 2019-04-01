@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>183</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -329,6 +329,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'testThetaStarPlanner.ThetaStarRun'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'testThetaStarPlanner.ThetaStarRun'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'trajectory_evaluator.model_based_loop'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -566,7 +574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'testThetaStarPlanner.ThetaStarRun'</Description>
-          <Count>43</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'trajectory_evaluator.model_based_loop'">
@@ -750,7 +758,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>376</Count>
+          <Count>377</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
