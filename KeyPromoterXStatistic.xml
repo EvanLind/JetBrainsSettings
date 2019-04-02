@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>193</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -278,7 +278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'PlannerImpl.AprIndoor'</Description>
-          <Count>233</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PlannerImplV2.AprIndoor'">
@@ -494,7 +494,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'PlannerImpl.AprIndoor'</Description>
-          <Count>337</Count>
+          <Count>342</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PlannerImpl.MultiThread'">
@@ -702,7 +702,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PlannerImpl.AprIndoor'</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlannerImpl.MultiThread'">
@@ -782,7 +782,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Structure</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
