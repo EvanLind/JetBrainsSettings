@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>192</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -233,12 +233,20 @@
           <Count>35</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ActivePlanner.testCrash'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ActivePlanner.testCrash'</Description>
+          <Count>29</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ActivePlanner.testIndoorPlanner'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ActivePlanner.testIndoorPlanner'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CollisionZone.collisionDetec'">
@@ -374,7 +382,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivatePlanner.testIndoorPlanner'">
@@ -385,12 +393,20 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ActivePlanner.testCrash'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ActivePlanner.testCrash'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ActivePlanner.testIndoorPlanner'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ActivePlanner.testIndoorPlanner'</Description>
-          <Count>144</Count>
+          <Count>147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Android.MemoryLeak'">
@@ -415,6 +431,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'CollisionZone.collisionDetec'</Description>
           <Count>81</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DwaPlanner.MultiAgent'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DwaPlanner.MultiAgent'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DwaPlanner.Simulation'">
@@ -625,12 +649,20 @@
           <Count>38</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ActivePlanner.testCrash'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ActivePlanner.testCrash'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ActivePlanner.testIndoorPlanner'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ActivePlanner.testIndoorPlanner'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Android.MemoryLeak'">
@@ -758,7 +790,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>380</Count>
+          <Count>381</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
