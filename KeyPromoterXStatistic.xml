@@ -390,7 +390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ActivePlanner.testIndoorPlanner'</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Android.MemoryLeak'">
@@ -574,7 +574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'testThetaStarPlanner.ThetaStarRun'</Description>
-          <Count>56</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'trajectory_evaluator.model_based_loop'">
@@ -606,7 +606,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -758,7 +758,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>378</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
