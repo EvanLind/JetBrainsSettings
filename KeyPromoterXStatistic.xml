@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>185</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -198,7 +198,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>124</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
@@ -238,7 +238,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ActivePlanner.testIndoorPlanner'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CollisionZone.collisionDetec'">
@@ -390,7 +390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ActivePlanner.testIndoorPlanner'</Description>
-          <Count>116</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Android.MemoryLeak'">
@@ -758,7 +758,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>379</Count>
+          <Count>380</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
