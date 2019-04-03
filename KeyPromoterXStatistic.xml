@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>196</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -142,7 +142,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
