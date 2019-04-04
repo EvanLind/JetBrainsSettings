@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>220</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -487,6 +487,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'MapManage'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MissionPlanner.testMissionPlanner'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'MissionPlanner.testMissionPlanner'</Description>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PlannerImpl.AprIndoor'">
