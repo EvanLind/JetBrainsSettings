@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>292</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -134,7 +134,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -489,6 +489,14 @@
           <Count>48</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DwaPlanner.SingleStep'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DwaPlanner.SingleStep'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DwaPlanner.mouseMovingObstacle'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -542,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'MissionPlanner.testMissionPlanner'</Description>
-          <Count>184</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PassivePlanner.simpleMove'">
@@ -766,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MissionPlanner.testMissionPlanner'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlannerImpl.AprIndoor'">
@@ -862,7 +870,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>445</Count>
+          <Count>446</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -870,7 +878,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
