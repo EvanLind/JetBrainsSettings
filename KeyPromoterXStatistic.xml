@@ -174,7 +174,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -214,7 +214,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
@@ -433,6 +433,14 @@
           <Count>172</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All in UTMissionPlanner.cpp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'All in UTMissionPlanner.cpp'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Android.MemoryLeak'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -518,7 +526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'MissionPlanner.testMissionPlanner'</Description>
-          <Count>163</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PassivePlanner.simpleMove'">
@@ -638,7 +646,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'testThetaStarPlanner.ThetaStarRun'</Description>
-          <Count>63</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'trajectory_evaluator.model_based_loop'">
@@ -838,7 +846,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>436</Count>
+          <Count>441</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
