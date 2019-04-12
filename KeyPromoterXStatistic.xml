@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>295</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -14,7 +14,7 @@
           <IdeaActionID>Build</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build</Description>
-          <Count>423</Count>
+          <Count>430</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -550,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'MissionPlanner.testMissionPlanner'</Description>
-          <Count>212</Count>
+          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PassivePlanner.simpleMove'">
