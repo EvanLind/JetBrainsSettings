@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>311</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -550,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'MissionPlanner.testMissionPlanner'</Description>
-          <Count>270</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PassivePlanner.simpleMove'">
@@ -886,7 +886,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>580</Count>
+          <Count>583</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
