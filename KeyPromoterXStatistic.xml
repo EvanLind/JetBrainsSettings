@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>319</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -30,7 +30,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -150,7 +150,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>58</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -166,7 +166,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Button5 Click' or 'Ctrl+.'</ShortCut>
           <Description>Forward</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -870,7 +870,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>475</Count>
+          <Count>479</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
