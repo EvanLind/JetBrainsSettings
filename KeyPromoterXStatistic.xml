@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or 'Ctrl+Comma'</ShortCut>
           <Description>Back</Description>
-          <Count>344</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -150,7 +150,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>80</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -166,7 +166,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Button5 Click' or 'Ctrl+.'</ShortCut>
           <Description>Forward</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -870,7 +870,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>488</Count>
+          <Count>493</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -886,7 +886,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>606</Count>
+          <Count>607</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
